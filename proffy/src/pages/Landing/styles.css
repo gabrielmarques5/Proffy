@@ -10,7 +10,7 @@
     background: var(--color-primary);
 }
 
-.logo-container {
+.logo-container img {
     height: 17rem;
 }
 
@@ -103,7 +103,6 @@
     }
 
     .logo-container {
-        height: 10rem;
         grid-area: logo;
         align-self: center;
         text-align: left;
