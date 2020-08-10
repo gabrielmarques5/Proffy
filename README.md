@@ -3,7 +3,7 @@
 
 Consiste em uma plataforma online de estudos com versão web e mobile.
 
-### Técnologias usadas:
+### Tecnologias usadas:
 - ReactJS;
 - React-Native;
 - Typescript;
